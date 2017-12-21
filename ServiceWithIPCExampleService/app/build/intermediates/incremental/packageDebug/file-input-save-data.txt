@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Wed Dec 06 21:32:04 CST 2017
+2.base=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleService\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.base=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.base=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleService\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+3.file=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\status.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleService\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\status.xml
+0.set=DEX

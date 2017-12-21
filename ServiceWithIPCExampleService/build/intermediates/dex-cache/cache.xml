@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d771356a0bf7f4cf3f98b27cbe5280af1a7c610d">
+        <dex dex="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b3818e21d046b7a4aaa672c4701ec7aa4a89986f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\TreasuryServ\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\TreasuryServ\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_aa506f7592d4b52649e57c38df7818277b24bf42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_173f83da2635280bbda2058775024d1c003c67cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\TreasuryServ\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="715d1c420a890e357d22ef3816e1a445d6adfc5b">
+        <dex dex="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\TreasuryServ\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0ea319c10a23789f8cd4cda1985adb7c79989de4\classes.dex" />
+    </item>
+
+</items>

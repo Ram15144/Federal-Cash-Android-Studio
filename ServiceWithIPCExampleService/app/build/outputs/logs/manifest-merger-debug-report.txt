@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:14:22-77
+permission#course.examples.Services.KeyService.GEN_ID
+ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:16:5-20:18
+	android:name
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:16:17-74
+application
+ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:22:5-45:19
+	android:label
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:23:9-37
+	android:allowBackup
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:24:9-36
+	android:icon
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:25:9-45
+activity#course.examples.Services.KeyService.Status
+ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:27:19-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:31:27-74
+service#course.examples.Services.KeyService.KeyGeneratorImpl
+ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:35:9-43:19
+	android:label
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:36:13-41
+	android:exported
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:39:13-76
+	android:name
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:37:13-45
+intent-filter#course.examples.Services.KeyCommon.KeyGenerator
+ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:40:13-42:29
+action#course.examples.Services.KeyCommon.KeyGenerator
+ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:41:17-90
+	android:name
+		ADDED from C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleService\app\src\main\AndroidManifest.xml:41:25-87

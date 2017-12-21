@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ram_n\.android\build-cache\900755c803b2fcdf50fdfb269483872c9d74b8a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleClient\app\build\intermediates\pre-dexed\debug\classes_5132c1a5e47759532bbbdd60a97c2e010c0246bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ram_n\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleClient\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_0fb066f487ed455ca5ff065fc9820776e3d87980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ram_n\.android\build-cache\900755c803b2fcdf50fdfb269483872c9d74b8a9\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleClient\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_5c3298445641e148899a8536590425d8fe940159.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\FedCash\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\FedCash\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4c58077e444ee35e453a79b2b62962da0a00c45f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\FedCash\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="10d0033b5a6e3f509b7ccc895993bc74433d8a54">
+        <dex dex="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\FedCash\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7a8eb3215ae65988a17cdc8fdc514a5a2f490719\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ram_n\.android\build-cache\26d226e3dac940e48f17f263ca7e3439a854c3c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleClient\app\build\intermediates\pre-dexed\debug\classes_706fbdc0eb7a7374eb1c90656b51e8d48abb43d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ram_n\.android\build-cache\25e062130a71efcdd49ba9b773c6a7b9f09b8981\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\ram_n\Desktop\Subjets\SDMA\Example apps\Folder - Services\ServiceWithIPCExampleClient\app\build\intermediates\pre-dexed\debug\classes_f5777d27f3f37c48787ecf92d5348c653e455551.jar" />
+    </item>
+
+</items>

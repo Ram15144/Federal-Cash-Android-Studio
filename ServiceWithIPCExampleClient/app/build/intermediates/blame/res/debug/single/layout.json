@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display_data.xml",
+        "source": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\src\\main\\res\\layout\\display_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_fragment_layout.xml",
+        "source": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleClient\\app\\src\\main\\res\\layout\\data_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleClient\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_fragment_layout.xml",
+        "source": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\src\\main\\res\\layout\\data_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_fragment_layout.xml",
+        "source": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleClient\\app\\src\\main\\res\\layout\\list_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleClient\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display_data.xml",
+        "source": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\ServiceWithIPCExampleClient\\app\\src\\main\\res\\layout\\display_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_fragment_layout.xml",
+        "source": "C:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\src\\main\\res\\layout\\list_fragment_layout.xml"
+    }
+]

@@ -1,0 +1,16 @@
+#Wed Dec 06 21:12:10 CST 2017
+renamed.4=classes.dex
+renamed.3=classes3.dex
+renamed.2=classes4.dex
+renamed.1=classes2.dex
+base.4=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5132c1a5e47759532bbbdd60a97c2e010c0246bc
+renamed.0=classes5.dex
+base.3=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f5777d27f3f37c48787ecf92d5348c653e455551
+base.2=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_5c3298445641e148899a8536590425d8fe940159
+base.1=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_706fbdc0eb7a7374eb1c90656b51e8d48abb43d6
+base.0=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_0fb066f487ed455ca5ff065fc9820776e3d87980
+file.4=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5132c1a5e47759532bbbdd60a97c2e010c0246bc\\classes.dex
+file.3=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f5777d27f3f37c48787ecf92d5348c653e455551\\classes.dex
+file.2=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_5c3298445641e148899a8536590425d8fe940159\\classes.dex
+file.1=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_706fbdc0eb7a7374eb1c90656b51e8d48abb43d6\\classes.dex
+file.0=C\:\\Users\\ram_n\\Desktop\\Subjets\\SDMA\\Example apps\\Folder - Services\\FedCash\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_0fb066f487ed455ca5ff065fc9820776e3d87980\\classes.dex
